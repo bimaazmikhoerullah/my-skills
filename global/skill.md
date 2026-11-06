@@ -1,5 +1,4 @@
 # Skills Reference
-
 - https://github.com/bimaazmikhoerullah/my-skills/blob/main/claude-red/active-directory/offensive-active-directory/SKILL.md
 - https://github.com/bimaazmikhoerullah/my-skills/blob/main/claude-red/active-directory/offensive-netexec/SKILL.md
 - https://github.com/bimaazmikhoerullah/my-skills/blob/main/claude-red/ai/offensive-ai-security/SKILL.md
@@ -70,6 +69,7 @@
 - https://github.com/bimaazmikhoerullah/my-skills/blob/main/claude-red/wireless/offensive-wifi-recon/SKILL.md
 - https://github.com/bimaazmikhoerullah/my-skills/blob/main/claude-red/wireless/offensive-wifi/SKILL.md
 - https://github.com/bimaazmikhoerullah/my-skills/blob/main/claude-red/wireless/offensive-wpa-enterprise/SKILL.md
+- https://github.com/bimaazmikhoerullah/my-skills/blob/main/claude-red/wireless/offensive-wpa2-psk/SKILL.md
 - https://github.com/bimaazmikhoerullah/my-skills/blob/main/claude-red/wireless/offensive-wpa2-psk/SKILL.md
 - https://github.com/bimaazmikhoerullah/my-skills/blob/main/claude-red/wireless/offensive-wpa3-sae/SKILL.md
 - https://github.com/bimaazmikhoerullah/my-skills/blob/main/claude-red/wireless/offensive-wps/SKILL.md
